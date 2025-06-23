@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/MohammedNadeemR/MohammedNadeemR/main/output-onlinepngtools.png" alt="Banner" width="100%"](https://github.com/MohammedNadeemR/MohammedNadeemR/blob/main/Hello.png) />
-</p>
-
 <h1 align="center">Hi 👋, I'm Mohammed Nadeem R</h1>
 <h3 align="center">Software Engineer | Expertise in Data Science, Python & Java | Frontend & Backend Development Pro</h3>
 
