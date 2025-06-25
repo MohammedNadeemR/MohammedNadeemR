@@ -112,7 +112,7 @@ I aim to join teams at companies like:
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-nadeem-r/)
 - 🌐 [Credly Certifications](https://www.credly.com/users/mohammed-nadeem-r)
 - 🌐 [Google Skill Boost](https://www.cloudskillsboost.google/public_profiles/40c2689b-7aab-4364-ad54-0b36b605a5c1)
-- 📧 Email: nadeemraza14112004@gmail.com
+- 📧 Email: nadu14112004@gmail.com
 
 ---
 
