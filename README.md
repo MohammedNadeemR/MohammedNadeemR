@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Mohammed Nadeem</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Nadeem R </h1>
 <h3 align="center">Aspiring Software Engineer | Front-End & Data Enthusiast | Project-Driven Learner</h3>
 
 ---
