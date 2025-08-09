@@ -35,13 +35,15 @@ I aim to join teams at companies like:
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects  
 
 | Project | Description | Tech Stack | Live Demo |
-|--------|-------------|------------|-----------|
-| [🎧 Spotify Clone](https://spotify-poti.vercel.app/) | A fully responsive clone with modern UI/UX. | React, Tailwind CSS, Next.js | ✅ |
-| [🎬 Netflix Clone](https://netflix-gmf9-git-main-mohammednadeemrs-projects.vercel.app/) | Dynamic movie app with Firebase Auth & TMDB API. | React, Firebase, Tailwind | ✅ |
-| 🧠 TCS DataViz Virtual Internship | Designed dashboards for mock enterprise insights. | Excel, Power BI | _On Forage_ |
+|---------|-------------|------------|-----------|
+| [🎧 **Spotify Clone**](https://spotify-poti.vercel.app/) | Fully responsive music streaming clone with sleek, modern UI/UX. | React, Tailwind CSS, Next.js | ✅ |
+| [🎬 **Netflix Clone**](https://netflix-gmf9-git-main-mohammednadeemrs-projects.vercel.app/) | Dynamic movie streaming app with Firebase Auth & TMDB API integration. | React, Firebase, Tailwind CSS | ✅ |
+| [🐦 **X Clone**](https://mohammednadeemr.github.io/x/) | Social media clone replicating Twitter’s core features & UI. | HTML, CSS, JavaScript | ✅ |
+| 🧠 **TCS DataViz Virtual Internship** | Designed interactive dashboards for mock enterprise data insights. | Excel, Power BI | _On Forage_ |
+
 
 ---
 
