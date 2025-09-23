@@ -39,10 +39,11 @@ I aim to join teams at companies like:
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| [🎧 **Spotify Clone**](https://spotify-poti.vercel.app/) | Fully responsive music streaming clone with sleek, modern UI/UX. | React, Tailwind CSS, Next.js | ✅ |
+| [🎧 **Spotify Clone**](https://spotify-poti.vercel.app/) | Fully responsive music streaming clone with sleek, modern UI/UX. | React, Next.js, Tailwind CSS | ✅ |
 | [🎬 **Netflix Clone**](https://netflix-gmf9-git-main-mohammednadeemrs-projects.vercel.app/) | Dynamic movie streaming app with Firebase Auth & TMDB API integration. | React, Firebase, Tailwind CSS | ✅ |
 | [🐦 **X Clone**](https://mohammednadeemr.github.io/x/) | Social media clone replicating Twitter’s core features & UI. | HTML, CSS, JavaScript | ✅ |
-| 🧠 **TCS DataViz Virtual Internship** | Designed interactive dashboards for mock enterprise data insights. | Excel, Power BI | _On Forage_ |
+| [🤖 **Jarvis Assistant**](https://github.com/MohammedNadeemR/jarvis/blob/main/README.md) | AI-powered desktop assistant with voice commands, news, music, and interactive GUI. | Python, Tkinter, Google Gemini AI, SpeechRecognition, pyttsx3 | ✅ |
+| [🧠 **TCS DataViz Virtual Internship**](https://www.forage.com/) | Designed interactive dashboards for mock enterprise data insights. | Excel, Power BI | _On Forage_ |
 
 
 ---
