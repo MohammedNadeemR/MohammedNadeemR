@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammedNadeemR/MohammedNadeemR/main/Hello.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/MohammedNadeemR/MohammedNadeemR/main/git.png.gif" alt="Banner" width="100%" />
 </p>
 
 
